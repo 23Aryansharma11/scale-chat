@@ -1,0 +1,14 @@
+{
+  "node": {
+    "fd5c956a60098cb62c04fd24eff7b7f8bba18162": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Faryan%2Fcode%2Fprojects%2Fscalable-chat%2Fclient%2Fsrc%2Factions%2Fcommon.ts%22%2C%5B%22clearCache%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "atzfH6GcizyCB/jyG9oefDK0C/KrQ1gcxjGQ60lopos="
+}

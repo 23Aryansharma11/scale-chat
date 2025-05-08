@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/auth/ProfileMenu.tsx -> @/components/auth/LogoutModel\":{\"id\":\"components/auth/ProfileMenu.tsx -> @/components/auth/LogoutModel\",\"files\":[\"static/chunks/_app-pages-browser_src_components_auth_LogoutModel_tsx.js\"]}}"
